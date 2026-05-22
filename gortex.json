@@ -1,12 +1,12 @@
 {
-    "version": "0.32.0",
+    "version": "0.33.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zzet/gortex/releases/download/v0.32.0/gortex_windows_amd64.zip",
+            "url": "https://github.com/zzet/gortex/releases/download/v0.33.0/gortex_windows_amd64.zip",
             "bin": [
                 "gortex.exe"
             ],
-            "hash": "ece32b6e40e61ea18000378716234d8d939c0673460072ad933780491c42d12e"
+            "hash": "251807cd5e8e9e46495b4542a3a48ad085480010ba2335cbcf81a23563d21f2e"
         }
     },
     "homepage": "https://github.com/zzet/gortex",

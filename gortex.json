@@ -1,12 +1,12 @@
 {
-  "version": "0.58.1",
+  "version": "0.58.2",
   "description": "Code intelligence engine that indexes repositories into an in-memory knowledge graph.",
   "homepage": "https://github.com/zzet/gortex",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zzet/gortex/releases/download/v0.58.1/gortex_windows_amd64.zip",
-      "hash": "b1e165c85f7bc99166ad2539e3acf432df3dc529c3be6fd7978fe0f6e9c49588"
+      "url": "https://github.com/zzet/gortex/releases/download/v0.58.2/gortex_windows_amd64.zip",
+      "hash": "627d9fabd34bf36f589c545fe63873edf9523ae6c079408b60122d6cdd690954"
     }
   },
   "bin": "gortex.exe",
